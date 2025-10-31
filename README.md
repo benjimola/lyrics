@@ -1,271 +1,157 @@
-AGGRESSIVE NAIJA RAP - TTS TONE & STYLE GUIDE
-OVERALL STYLE SETTINGS
-
-Tempo: 90-100 BPM (hard-hitting, driving energy)
-Pitch: Deep, commanding register (-15 to -20%)
-Tone: Aggressive, confident, dominant with Naija swagger
-Delivery: Punchy, staccato, powerful with natural Pidgin flow
-Energy: Maximum intensity, relentless, commanding presence
-
-
-INTRO/HYPE UP
-[Tone: Explosive, anthemic, call-and-response energy]
-[Pace: Building momentum, getting crowd hyped]
-Yeah, yeah, yeah!
-[Aggressive shout, building energy]
-As we dey proceed to give una wetin una need
-[Strong, commanding - "give you what you need"]
-Naija to the world, motherfuckers, make una receive!
-[Explosive delivery, emphasis on "receive"]
-As we dey proceed to give una wetin una need
-[Repeat with more intensity]
-Lagos city standing, motherfuckers, make una believe!
-[Peak hype, punch "believe"]
-Turn the mic up!
-[Sharp command]
-Naija boy dem, turn that mic up!
-[Call to action]
-Street credibility, turn that shit up!
-[Aggressive, demanding]
-Yeah! As we dey proceed to give una wetin una need!
-[Anthem-like, rallying cry]
-
-VERSE 1
-[Tone: Menacing, confident, street authority]
-[Pace: Rapid-fire with strategic pauses for impact]
-Who dey test me? Separate the strong from the weak ones
-[Challenging, aggressive opening]
-Hard to run these Lagos streets, we no dey sleep, son
-[Emphasis on "Lagos streets", pride]
-E don set, forget all that talking and beef
-[Dismissive tone - "it's on, forget the talk"]
-I fit hear your body dey shake, e no brief
-[Menacing, can hear their fear]
-Your heartbeat dey sound like thunder for street
-**[Vivid imagery, intimidating]
-Shaking the ground, shaking concrete
-[Building intensity]
-Then everything stop when I show for the spot
-[Sudden shift, commanding presence]
-Neighbors dey call police, say dem hear plenty shot
-[Storytelling, cinematic]
-See me for the ride, that thing na luxury
-[Boastful, confident]
-Old school, new school, everybody go see
-[Universal respect claim]
-Say I dey burn like fire, no be small thing
-[Aggressive metaphor]
-Peel more skin than anything wey you don seen
-[Threatening imagery]
-Everybody sabi: the lyrical murder dey happen
-[Everyone knows - "sabi"]
-Fucking with the boss, e no safe, no be japping
-[Warning, not joking - "japping" = playing]
-I go make your body scatter, rashes and bruises
-[Graphic, threatening]
-Big man smashing fools, we no dey for excuses
-[Dominant, no mercy]
-People dey vex because dem know say cash dey rule
-[Anger because money rules]
-Everything around me, I get two piece for my tool
-[Armed and dangerous]
-Any motherfucker wey dey whisper about mine
-[Threatening anyone talking]
-I be the finest, you go rewind this
-[Confident closer, demanding respect]
-
-CHORUS/HOOK
-[Tone: Anthemic, aggressive chant with call-response]
-[Delivery: Punch every word, crowd participation energy]
-As we dey proceed to give una wetin una need
-[Strong, commanding]
-Naija boys, motherfuckers, make una receive!
-[Explosive, emphasis on "receive"]
-As we dey proceed to give una wetin una need
-[Build momentum]
-East side, West side, motherfuckers, believe!
-[Unity call, powerful]
-Get live, motherfuckers!
-[Sharp command]
-Get high, motherfuckers!
-[Hype building]
-Naija stand, motherfuckers!
-[Pride declaration]
-Worldwide, motherfuckers!
-[Global claim]
-
-VERSE 2
-[Tone: Swagger, boastful, untouchable energy]
-[Pace: Confident stride, taking time to flex]
-I don see the light, all the people dem excite
-[Observational, proud]
-Stack mad money, spread love with my guys dem for the night
-[Boastful about success and loyalty]
-Niggas wan creep, but I dey watch my back tight
-[Vigilant, streetwise]
-You think say the Hennessy and igbo go make me slack? Alright
-[Challenging assumption - "igbo" = weed]
-I switch all that, motherfucker, boss up
-[Dismissive, commanding]
-One false move, your body go chop hot loss up
-[Threatening with Pidgin flair]
-Respect, I dey command am, no be by force
-[Demanding respect naturally]
-Slip one time and you go see the source
-[Warning of consequences]
-You no suppose fuck with the Poppa
-[Direct warning]
-Feel your whole life scatter when I drop ya
-[Threatening imagery]
-I feel for you like say I get sympathy
-[False compassion, mocking]
-I be the don, any girl wey I want, she dey with me
-[Boastful about status]
-Rolex for the arm, you go die but e go calm
-[Flexing wealth, casual about violence]
-Recognize my face so e no go get mistake
-[Ensuring identification]
-So you sabi where to talk, lame nigga
-[Know where to report - "sabi" = know]
-Brave today, tomorrow you be front page, my nigga
-[Warning about consequences]
-Boss man dey flip daily
-[Hustling constantly]
-I smoke the loud, sip the drinks wey dey crazy
-[Living luxuriously]
-For the block, carry tools for any occasion
-[Always armed]
-Hammer ready for the fire position and...
-[Ready for action, threatening trail-off]
-
-BRIDGE/CONFRONTATION
-[Tone: Intense, threatening, direct confrontation]
-[Pace: Slower, menacing, personal]
-Oya, come here, come here
-[Commanding - "oya" = come on/now]
-E no suppose be like this, but you cause am
-[Blame, threatening]
-I no tell you say make you no fuck with me?
-[Rhetorical question, angry]
-Abi you no hear word?
-[Didn't you listen? - aggressive]
-Look yourself now, wetin you wan talk?
-[Mocking, what do you want to say?]
-You no fit talk with trouble for your mouth
-[Can't talk when in danger]
-Who you think say you be?
-[Who do you think you are?]
-
-FINAL CHORUS/OUTRO
-[Tone: Victory lap, maximum energy, dominant]
-[Add variations and ad-libs]
-As we dey proceed to give una wetin una need
-(Naija boys!)
-[Triumphant ad-lib]
-Get live, motherfuckers, make una receive!
-(Worldwide!)
-[Global domination]
-As we dey proceed to give una wetin una need
-(East side!)
-Naija stand, motherfuckers, make una believe!
-(West side!)
-Get money, motherfuckers!
-[Command]
-Get live, motherfuckers!
-[Hype]
-Naija to the world, motherfuckers!
-[Pride declaration]
-As we dey proceeeeed to give una wetin una need!
-[Extended, fade with power]
-Naija boy dem!
-[Final declaration]
-
-TECHNICAL TTS PARAMETERS
-Voice Modulation
-
-Baseline pitch: -15% to -20% (deep, commanding)
-Nigerian accent: Strong, confident Naija delivery
-Dynamic range: Extreme (whispered threats to explosive shouts)
-Aggression level: Maximum (90-95%)
-Breathiness: Minimal (5-10%, tight and controlled)
-Rasp/Grit: 35-40% for street credibility
-
-Pidgin Pronunciation & Flow
-
-"dey" = continuous/present tense (flow naturally)
-"una" = you all/you (plural)
-"sabi" = know
-"wetin" = what
-"oya" = come on/now (commanding)
-"igbo" = weed (Nigerian slang)
-"japping" = joking/playing
-"abi" = or/right? (questioning)
-Deliver Pidgin with full confidence, not as translation
-
-Emphasis Patterns
-
-PUNCH WORDS: "Need", "believe", "receive", "proceed"
-Threats: Lower pitch, menacing slow delivery
-Boasts: Louder, more aggressive
-Commands: Sharp, staccato
-Pidgin phrases: Natural swagger, don't over-pronounce
-
-Emotional Intensity Map
-
-Intro: 85% intensity (building hype)
-Verse 1: 90% intensity (aggressive storytelling)
-Chorus: 95% intensity (maximum energy)
-Verse 2: 88% intensity (confident swagger)
-Bridge: 92% intensity (direct threat)
-Final Chorus: 100% intensity (victory lap)
-
-Flow Patterns
-
-Staccato delivery: Sharp consonants, punchy
-Strategic pauses: After threats for impact
-Rapid sections: During boastful moments
-Call-and-response: Leave space for crowd
-Breath control: Tight, controlled, never weak
-
-Effects Recommendations
-
-Heavy compression: Aggressive, in-your-face sound
-Bass boost: Deep, chest-hitting low end
-Slight distortion: 10-15% for grit and edge
-Reverb: Minimal (10-15%, street/room sound)
-Delay: On key phrases for emphasis
-Doubling: On hook for anthem effect
-
-Ad-Lib Arsenal (Naija Flavor)
-
-Affirmations: "Naija!", "Ehen!", "Na so!", "Correct!"
-Hype: "Make una hear!", "Oya!", "Ginger!", "Burst!"
-Threats: "You go see", "E go happen", "Watch"
-Location: "Lagos!", "Naija stand!", "9ja!"
-Energy: "Fire!", "Scatter!", "Finish dem!"
-Ad-libs should punch through, not background noise
-
-
-PERFORMANCE NOTES
-This is a TAKEOVER - maximum aggression with Nigerian street credibility.
-Key performance elements:
-
-Confidence is EVERYTHING: Never sound uncertain
-Pidgin is natural: Not translated, it's how you speak
-Threats are real: Deliver with conviction
-Swagger is inherent: You own every space
-Nigerian pride: Represent with full chest
-Energy never drops: Maintain intensity throughout
-
-Vocal character: Street boss, untouchable, respected and feared. Mix of American hip-hop aggression with Nigerian street authority.
-Code-switching: Seamless blend - English for universal appeal, Pidgin for authenticity and cultural pride. Never apologize for either.
-Crowd engagement: This is meant to move people. Leave space for response. Command attention.
-Critical Delivery Points
-
-Never rush threats - let them sit
-Punch the hook - make it memorable
-Own the Pidgin - it's not accent, it's language
-Build and release - create tension, then explode
-End dominant - never fade weak
-
-This is about POWER. Deliver accordingly.
+[INTRO - Jaguda, spoken/chanted]
+Stadium status... (Eh!)
+From computer village to Eko Hotel (Zeh!)
+This na my story... (Wahala!)
+Oya make I yarn una...
+[CHORUS - Jaguda]
+My oga na Don Jazzy brother (Brother!)
+E be like Wizkid and Banky brother (Brother!)
+Who be Afrobeats brother, who be my guy friend
+My guy na my mentor, so make the story begin (Eh! Zeh!)
+Oga patapata, e be big man brother
+Now everybody wan know wetin I discover
+From nothing to something, from boy to another
+Oga patapata... thank God for my big brother (Wahala!)
+[VERSE 1 - Jaguda, nostalgic/reflective]
+Na Felabration time, we dey sell out show (Show!)
+Picture me for Computer Village, dey carry beat CD go
+"Oga abeg listen," that's wetin I go shout
+You know the hustle, I no need spell am out (Eh!)
+J-A-G-U, and me so shy (Shy!)
+Say I no fit even greet my oga, say hi (No!)
+Standing there like mumu, make chance pass by
+Back of my mind say, "Guy, he fit change your life!" (Zeh!)
+"With all these beats wey I don do, make am hear am
+At least you fit brag for your guys for the street"
+E see something for me wey I never see (See!)
+E carry my CD, put am for top shelf free (Free!)
+But e carry me comot for my mama room (Room!)
+Then e help me buy my mama house for Lekki! (Wahala!)
+[CHORUS - Jaguda]
+My oga na Don Jazzy brother (Brother!)
+E be like Wizkid and Banky brother (Brother!)
+Who be Afrobeats brother, who be my guy friend
+My guy na my mentor, so make the story begin (Eh! Zeh!)
+Oga patapata, e be big man brother
+Now everybody wan know wetin I discover
+From nothing to something, from boy to another
+Oga patapata... thank God for my big brother!
+[VERSE 2 - Jaguda, hustle story]
+Fresh from the street, I dey go studio (Studio!)
+Nothing free for me, I go hustle my own dough (Dough!)
+Around the same time wey him blow scatter ground
+And these beats for my bag na blueprint for sound (Eh!)
+I go play my small songs for that back room (Back room!)
+E go nod him head, say "Chai! Na you do?" (You do?)
+Sometimes e go give me notes, tell me wetin to fix (Fix!)
+Teach me how to arrange, show me all the tricks (Tricks!)
+I dey watch am work, learn from the master (Master!)
+How to build a hit, how to make am faster (Faster!)
+From the way e mix down to the way e master (Master!)
+Every single lesson making me go harder (Harder!)
+But by the time album drop, I dey black out (Black!)
+Dey perform for shows and we don pack crowd (Zeh!)
+Big brother get him show for Eko Hotel there (There!)
+And I'm like "Yes, yes, we go dey there!" but (But!)
+Not only say I no get chance to spit am (Spit!)
+Dem tell me say make I go buy two ticket! (Wahala!)
+E pain me die that day, I no go lie (Lie!)
+But I swallow am, wipe my eye, no cry (Cry!)
+I guess oga dey reason small different (Different!)
+E keep small brother for back, for distance (Distance!)
+But everything wey pain me, wey vex me (Vex!)
+Only make me more focus, write more heavy (Heavy!)
+I dey studio every night, no sleep (Sleep!)
+Perfecting my craft, going deep (Deep!)
+While other people dey party and dey flex (Flex!)
+I dey hustle for the music, collecting checks! (Checks!)
+Only thing I wan know be why dem overlook me (Why?)
+I guess I go understand when I don old well well
+Big brother see me for bottom of the ladder (Bottom!)
+Now I don reach top, everybody don scatter! (Eh! Zeh! Wahala!)
+[CHORUS - Jaguda]
+My oga na Don Jazzy brother (Brother!)
+E be like Wizkid and Banky brother (Brother!)
+Who be Afrobeats brother, who be my guy friend
+My guy na my mentor, so make the story begin (Eh! Zeh!)
+Oga patapata, e be big man brother
+Now everybody wan know wetin I discover
+From nothing to something, from boy to another
+Oga patapata... thank God for my big brother!
+[VERSE 3 - Jaguda, competitive but respectful]
+You don ever waka for shadow of giant? (Giant?)
+Not only artist o, the President, the lion (Lion!)
+The game don spoil, so here na free advice
+I been dey always for the other side (Eh!)
+Dey look through glass, watching from outside (Outside!)
+While e dey inside studio, worldwide (Worldwide!)
+E dey travel the world, I dey grind for Naija (Naija!)
+Waiting for my time, planning like a sniper (Sniper!)
+Then I drop "Street Anthem," now I dey on top (Top!)
+And you know say for Naija, I go keep my brother (Brother!)
+But to be number one, I go beat my brother (Beat am!)
+On that remix, I swear say I burst brain (Burst!)
+Then my big brother come through, scatter everything! (Zeh!)
+Show me say e still get levels to this thing (Thing!)
+I vex small, but I learn from the king (King!)
+That's how you stay on top, that's the real bling! (Bling!)
+Sibling rivalry, only me fit see (See!)
+Na the pride for me wey dey drive me (Drive!)
+Push me harder, make me wan achieve (Achieve!)
+Everything wey I dream, everything I believe! (Believe!)
+For the awards I say, "Na myself inspire me" (Wahala!)
+But deep down I know say na e wire me (Wire!)
+Give me confidence when I never see am clear (Clear!)
+Whisper for my ear say "Guy, your time dey near!" (Near!)
+But my big brother na who I always wan be (Be!)
+When I spit flow, e be like collaboration
+Even if e give me space, na still him foundation (Foundation!)
+Without am, I for still dey for bus station! (Station!)
+I guess e style na more like thunderstorm (Storm!)
+And my own style na more like steady rain (Rain!)
+But together we dey water the same soil (Soil!)
+Growing Naija music through the hustle and toil! (Toil!)
+But I get hits sha (Hits!)
+And them girls for my show go wild sha, y'all know (Know!)
+From Abuja to Calabar, dem dey feel my flow (Flow!)
+Every city I enter, na standing ovation show! (Show!)
+I tell am say I don do song with foreign artist (Foreign!)
+Next thing I know, e get song with them artist (Them!)
+Back for my mind I dey like, "Ah, no way!" (No way!)
+E pain small, but na so the game dey (Dey!)
+E show me say if you good, dem go come (Come!)
+You no need force am, just keep building from (From!)
+Every small win to the bigger kingdom (Kingdom!)
+That's the lesson wey I learn, now I don become! (Become!)
+Then I go talk to person, tell am first (First!)
+Shoulda go meet am like man, e make sense burst (Burst!)
+But I tell another person, that one make am worse! (Eh! Zeh! Wahala!)
+Now I know say loyalty na the real verse! (Verse!)
+[BRIDGE - Chun-Li, melodic/soulful]
+My oga na legend brother (Hmm, yeah)
+So here's a few words from your younger sister (Oya!)
+If you admire person, you suppose tell am (Tell am!)
+People never get the flowers while dem fit still smell am (Smell am!)
+A idol for my eyes, god of the game (Game!)
+Heart of Lagos, Afrobeats in the chain (Chain!)
+Never be the same, never be another (Never!)
+Number one, my oga, also my big brother (Big brother!)
+[FINAL CHORUS - Jaguda & Chun-Li together]
+My oga na Don Jazzy brother (Brother!)
+E be like Wizkid and Banky brother (Brother!)
+Who be Afrobeats brother, who be my guy friend (Friend!)
+My guy na my mentor, and that's where the story end (Eh! Zeh!)
+Oga patapata, e be big man brother (Brother!)
+Now everybody wan know wetin we discover (Discover!)
+From nothing to something, from boy to another (Another!)
+Oga patapata... forever be my big brother! (Wahala!)
+[OUTRO - Jaguda, emotional]
+Thank you, oga... (Thank you!)
+For everything wey you don do (Everything!)
+From Computer Village to stadium (Stadium!)
+From cassette to streaming (Streaming!)
+You show me say e possible (Possible!)
+Naija boy fit make am (Make am!)
+This one na for you... (For you!)
+Big brother... oga patapata... (Eh! Zeh!)
+Producer kill this beat o! (Wahala!)

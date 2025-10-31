@@ -1,3 +1,4 @@
+Whisper for my ear say "Guy, your time dey near!" (Near!)
 But my big brother na who I always wan be (Be!)
 When I spit flow, e be like collaboration
 Even if e give me space, na still him foundation (Foundation!)
